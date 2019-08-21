@@ -1,0 +1,15 @@
+[submodule "elix"]
+	path = elix
+	url = ssh://git@github.com/indigoparadox/elix
+[submodule "mfat"]
+	path = mfat
+	url = ssh://git@github.com/indigoparadox/mfat
+[submodule "mbmp"]
+	path = mbmp
+	url = ssh://git@github.com/indigoparadox/mbmp
+[submodule "chiipy"]
+	path = chiipy
+	url = ssh://git@github.com/indigoparadox/chiipy
+[submodule "msign"]
+	path = msign
+	url = ssh://git@github.com/indigoparadox/msign
