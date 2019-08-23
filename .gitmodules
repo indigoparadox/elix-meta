@@ -13,3 +13,6 @@
 [submodule "msign"]
 	path = msign
 	url = ssh://git@github.com/indigoparadox/msign
+[submodule "mnet"]
+	path = mnet
+	url = ssh://git@github.com/indigoparadox/mnet
