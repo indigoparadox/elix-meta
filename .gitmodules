@@ -1,18 +1,18 @@
 [submodule "elix"]
 	path = elix
-	url = ssh://git@github.com/indigoparadox/elix
+	url = https://github.com/indigoparadox/elix
 [submodule "mfat"]
 	path = mfat
-	url = ssh://git@github.com/indigoparadox/mfat
+	url = https://github.com/indigoparadox/mfat
 [submodule "mbmp"]
 	path = mbmp
-	url = ssh://git@github.com/indigoparadox/mbmp
+	url = https://github.com/indigoparadox/mbmp
 [submodule "chiipy"]
 	path = chiipy
-	url = ssh://git@github.com/indigoparadox/chiipy
+	url = https://github.com/indigoparadox/chiipy
 [submodule "msign"]
 	path = msign
-	url = ssh://git@github.com/indigoparadox/msign
+	url = https://github.com/indigoparadox/msign
 [submodule "mnet"]
 	path = mnet
-	url = ssh://git@github.com/indigoparadox/mnet
+	url = https://github.com/indigoparadox/mnet
